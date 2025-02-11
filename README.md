@@ -5,7 +5,7 @@
 - [Red](#red)
 - [Orange](#orange)
 - [Yellow](#yellow)
-- [Green](#green0
+- [Green](#green)
 - [Blue](#blue)
 - [Indigo](#indigo)
 - [Violet](#violet)
